@@ -37,22 +37,39 @@ An E-Commerce website project is incomplete without the proper details of Orders
 Available Features:
 
 Client-Side
+
 Admin Panel
+
 Add to Cart system
+
 Wishlist system
+
 Apply coupon codes
+
 Order Management – Customer
+
 Manage Profile – Customer
+
 Categories and Manufacturers
+
 Products and Bundles Management
+
 Product – Bundles Relations
+
 Set up Store details
+
 Update contact, about us details
+
 Coupon Management
+
 List Customers
+
 Manage Customer’s Order
+
 Payment Management
+
 User Management System
+
 View Total Earnings.
 
 
